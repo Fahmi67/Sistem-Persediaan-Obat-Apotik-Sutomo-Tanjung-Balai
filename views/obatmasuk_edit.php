@@ -8,7 +8,7 @@ $data= mysqli_fetch_array($ambil);
         <div class="col-xs-12">
             <div class="panel panel-success">
                 <div class="panel-heading">
-                    <h3 class="panel-title">Form Update Data Arsip</h3>
+                    <h3 class="panel-title">Form Update Data Obat Masuk</h3>
                 </div>
                 <div class="panel-body">
                     <!--membuat form untuk tambah data-->
@@ -72,7 +72,7 @@ $data= mysqli_fetch_array($ambil);
                         <div class="form-group">
                             <div class="col-sm-offset-3 col-sm-9">
                                 <button type="submit" class="btn btn-success">
-                                    <span class="fa fa-edit"></span> Update Data Arsip</button>
+                                    <span class="fa fa-edit"></span> Update Data Obat Masuk</button>
                             </div>
                         </div>
                     </form>
@@ -81,7 +81,7 @@ $data= mysqli_fetch_array($ambil);
                 </div>
                 <div class="panel-footer">
                     <a href="?page=obatmasuk&actions=tampil" class="btn btn-danger btn-sm">
-                        Kembali Ke Data Arsip
+                        Kembali Ke Data Obat Masuk
                     </a>
                 </div>
             </div>
