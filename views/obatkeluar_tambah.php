@@ -3,7 +3,7 @@
         <div class="col-xs-12">
             <div class="panel panel-success">
                 <div class="panel-heading">
-                    <h3 class="panel-title">Form Tambah Data Arsip</h3>
+                    <h3 class="panel-title">Form Tambah Data Obat Keluar</h3>
                 </div>
                 <div class="panel-body">
                     <!--membuat form untuk tambah data-->
