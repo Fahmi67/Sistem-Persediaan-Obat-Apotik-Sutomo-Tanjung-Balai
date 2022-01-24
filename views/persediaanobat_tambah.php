@@ -3,7 +3,7 @@
         <div class="col-xs-12">
             <div class="panel panel-success">
                 <div class="panel-heading">
-                    <h3 class="panel-title">Form Tambah Data Arsip</h3>
+                    <h3 class="panel-title">Form Tambah Data Persediaan Obat</h3>
                 </div>
                 <div class="panel-body">
                     <!--membuat form untuk tambah data-->
@@ -35,7 +35,7 @@
                         <div class="form-group">
                             <div class="col-sm-offset-3 col-sm-9">
                                 <button type="submit" class="btn btn-success">
-                                    <span class="fa fa-save"></span> Simpan Arsip</button>
+                                    <span class="fa fa-save"></span> Simpan</button>
                             </div>
                         </div>
                     </form>
@@ -44,7 +44,7 @@
                 </div>
                 <div class="panel-footer">
                     <a href="?page=persediaanobat&actions=tampil" class="btn btn-danger btn-sm">
-                        Kembali Ke Data Arsip
+                        Kembali Ke Data Persediaan Obat
                     </a>
                 </div>
             </div>
